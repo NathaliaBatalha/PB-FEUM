@@ -8,3 +8,5 @@ Please follow the steps:
 3 - Choose the material properties file to be simulated, changing the .txt name on line 28 of 'Abaqus_script_100el.py'.
 4 - Open Abaqus Cae and run the script 'Abaqus_script_100el.py'. 
 5 - Abaqus documentation provides the steps to export solutions, such as strain and stress fields. Please check: http://130.149.89.49:2080/v6.11/index.html
+
+The material properties generated for the Virtual Experiment, assumed a random correlated field with scale of 0.25, cross-correlation between variables of 0.5 and coefficient of variation of 0.1. 
